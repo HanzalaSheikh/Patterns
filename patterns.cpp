@@ -33,5 +33,82 @@ int main(){
     //     cout << endl;
     // }
 
+    // 3) 1 2 3 4 5 6 7 8 9
+    // int count;
+    // cout<< "Enter number of rows : ";
+    // cin >> count;
+    // int n = 1;
+    // for (int i = 1; i <= count; i++)
+    // {
+    //     for (int j = 1; j <= count; j++)
+    //     {
+    //         cout << n;
+    //         n++;
+            
+    //     }
+        
+    //     cout<< endl;
+    // }
+
+    // triangular 1234
+    // for (int i = 1; i <= count; i++)
+    // {
+    //     for (int j = 1; j <= i ; j++)
+    //     {
+    //         cout << j;
+    //     }
+    //     cout << endl;
+    // }
     
+    // triangle
+    //     for (int i = 1; i <= count; i++)
+    // {
+    //     for (int j = 1; j <= i ; j++)
+    //     {
+    //         cout << "*";
+    //     }
+    //     cout << endl;
+    // }
+
+    // triangular 1 22 333
+    //     for (int i = 1; i <= count; i++)
+    // {
+    //     for (int j = 1; j <= i ; j++)
+    //     {
+    //         cout << i;
+    //     }
+    //     cout << endl;
+    // }
+
+    // TRAIANGLE 1 23 456
+//     int n = 1;
+//         for (int i = 1; i <= count; i++)
+//     {
+//         for (int j = 1; j <= i ; j++)
+//         {
+//             cout << n;
+//             n++;
+//         }
+//         cout << endl;
+//     }
+
+//     // TRAINAGLE 1 23 345 4567
+// for (int i = 1; i <= count; i++)
+// {
+//     for (int j = 0; j < i ; j++)
+//     {
+//         cout << i+j;
+//     }
+//     cout << endl;
+// }
+
+    // Triangle 1 21 321
+
+
+
+
+
+
+
+
 }
