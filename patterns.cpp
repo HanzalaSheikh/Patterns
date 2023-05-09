@@ -34,9 +34,9 @@ int main(){
     // }
 
     // 3) 1 2 3 4 5 6 7 8 9
-    // int count;
-    // cout<< "Enter number of rows : ";
-    // cin >> count;
+    int count;
+    cout<< "Enter number of rows : ";
+    cin >> count;
     // int n = 1;
     // for (int i = 1; i <= count; i++)
     // {
@@ -103,6 +103,64 @@ int main(){
 // }
 
     // Triangle 1 21 321
+
+// for (int i = 1; i <= count; i++)
+// {
+//     for (int j = 1; j <= i; j++)
+//     {
+//         cout << i-j+1;
+//     }
+//     cout << endl;
+// }
+
+    // AAA BBB CCC
+// char a = 65;
+// for (int i = 1; i <= count; i++)
+// {
+//     for (int j = 1; j <= count; j++)
+//     {
+//         cout << a;
+//     }
+//     a++;
+//     cout << endl;
+// }
+
+    // ABC ABC ABC
+// for (int i = 1; i <= count; i++)
+// {
+//     char a = 65;
+//     for (int j = 1; j <= count; j++)
+//     {
+//         cout << a;
+//         a++;
+
+//     }
+//     cout << endl;
+// }
+
+// ABCD
+// EFGH
+// MNOP
+
+// char a = 65;
+// for (int i = 1; i <= count; i++)
+// {
+//     for (int j = 1; j <= count; j++)
+//     {
+//         cout << a;
+//         a++;
+
+//     }
+//     cout << endl;
+// }
+
+
+
+
+
+
+
+
 
 
 
