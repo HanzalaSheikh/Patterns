@@ -154,19 +154,124 @@ int main(){
 //     cout << endl;
 // }
 
+// A
+// AB
+// ABC
+// ABCD
+
+// for (int i = 1; i <= count; i++)
+// {
+//     char a = 65;
+//     for (int j = 1; j <= i; j++)
+//     {
+        
+//         cout << a;
+//         a++;
+//     }
+    
+//     cout << endl;
+// }
+
+// A  
+// BB 
+// CCC
+// DDDD
+
+// char a = 65;
+// for (int i = 1; i <= count; i++)
+// {
+    
+//     for (int j = 1; j <= i; j++)
+//     {    
+//         cout << a;  
+//     }
+//     a++;
+//     cout << endl;
+// }
+
+// A
+// BC
+// DEF
+// GHIJ
+
+// char a = 65;
+// for (int i = 1; i <= count; i++)
+// {
+    
+//     for (int j = 1; j <= i; j++)
+//     {    
+//         cout << a; 
+//         a++; 
+//     }
+    
+//     cout << endl;
+// }
+
+// A
+// BC
+// CDE
+// DEFG
+
+//  int i,j;
+//   char c;
+//   int n=5;
+ 
+//   c='A';
+//   for(i=0;i<n;i++)
+//    {
+//    for(j=0;j<=i;j++)
+//    {
+//       if(c=='Z')
+//       break;
+ 
+//       cout<<c;
+//       c++;
+//    }
+ 
+//     cout<<endl;
+//     }
+
+// E
+// DE
+// CDE
+// BCDE
+// ABCDE
+ 
+// int i,j;
+// int n=5;
+
+// for(i=n;i>=1;i--)
+// {
+//     for(j=i;j<=n;j++)
+//     {
+//         cout<<((char)(j+64));
+//     }
+
+//     cout<<endl;
+// }
+
+//  A
+// BA
+// CBA
+// DCBA
+// EDCBA
+
+//   int i,j;
+//   int n=5;
+ 
+//     for(i=1;i<=n;i++)
+//      {
+//          for(j=i;j>=1;j--)
+//          {
+//              cout<<((char)(j+64));
+//          }
+ 
+//          cout<<endl;
+//      }
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+    return 0;
 }
